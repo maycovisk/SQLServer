@@ -1,0 +1,101 @@
+Codigo_Produto;Descricao_Produto;Data_Estocagem_Produto;Unidades_Disponiveis_Produto;Valor_Unitario_Produto;Taxa_Desconto_Produto;Codigo_Fornecedor
+SSGS3G6;Smartphone Samsung Galaxy S7 32 GB;17/04/2016;36;3199.00;0.08;7
+NAAE13;Notebook Acer Aspire E5-574-307M;01/08/2016;37;1994.05;0.16;7
+CCDFS65;Colcha Casal Dupla Face Santista;21/06/2016;16;80.67;0.13;13
+MMSN97;Mochila Multilaser Slim Notebook ;02/07/2016;38;116.55;0.00;5
+CSCZPN44;Capa Stillo Com Zíper Para Notebook;12/02/2016;14;16.80;0.10;7
+MBFN73;Mochila Belkin F8N780NNC01 Notebook;07/09/2016;10;94.00;0.00;12
+PNMC64;Pasta Notebook Multilaser Casual ;23/03/2016;22;74.00;0.00;12
+CSCBPN16;Capa Stillo Com Bolso Para Notebook;01/03/2016;18;18.90;0.10;4
+MGNA90;Mochila G Notebook Acolchoada ;31/07/2016;19;79.90;0.33;6
+PPNM74;Pasta Para Notebook Multiuso;12/08/2016;29;24.20;0.07;5
+S4LLV80;Sofá 4 Lugares Linoforte Versalhes;26/01/2016;23;899.91;0.00;13
+JCSS32;Jogo Cama Solteiro Santista;13/04/2016;7;72.92;0.02;6
+JCSA12;Jogo Cama Solteiro Allison;01/09/2016;35;57.30;0.00;14
+CBCSS35;Cama Box Conjugada Solteiro Somopar;01/07/2016;16;664.90;0.06;3
+STL6UH4S87;Smart TV LED 60 Ultra HD 4K Samsung;21/07/2016;46;8499.00;0.00;9
+BMLM43;Boneca Mattel Little Mommy;18/09/2016;46;89.90;0.00;7
+DPSB32;Depilador Philips Satinelle Bivolt;09/10/2016;6;117.50;0.00;12
+EAMV21;Escova Alisadora Mondial Vermelha;04/06/2016;48;199.90;0.00;7
+ADPPP27;Aparelho De Pressão Pulso Premium;06/03/2016;8;74.00;0.00;4
+SCTSM12;Secador Cabelos Taiff Smart Motor ;15/07/2016;17;110.90;0.00;11
+ERMT49;Escova Rotativa Mondial Tourmaline ;31/07/2016;7;80.82;0.39;3
+SDCTT70;Secador De Cabelos Taiff Titanium;13/09/2016;49;349.00;0.31;7
+APPM32;Aparador Pelos Philips MultiGroom ;23/01/2016;22;82.56;0.26;7
+CPAE71;Colchão Pneumático Anti Escaras;18/08/2016;38;517.00;0.43;6
+FDKTB67;Fita De Kinésio Tape Bandagem ;01/09/2016;5;35.00;0.17;15
+DPFEI79;Depilador Portátil Facial E Intimo ;19/06/2016;0;29.13;0.00;13
+TL2HPP39;TV LED 20 HD Philco PH20U21D ;10/06/2016;32;659.90;0.19;15
+STL3HS351;Smart TV LED 32 HD Samsung 32J4300;05/01/2016;41;1289.00;0.20;7
+STC34L463;Smart TV Cinema 3D  42 LG 42LF6500;13/09/2016;24;1999.00;0.00;12
+STL5UHS55;Smart TV LED 55 Ultra HD Samsung;09/09/2016;41;4299.00;0.11;11
+STL6UHS7;Smart TV LED 65 Ultra HD Samsung;22/01/2016;42;8850.38;0.19;13
+HTSH74;Home Theater Samsung HT-F4505/ZD ;07/05/2016;43;809.00;0.13;6
+HTT5550;Home Theater TRC 5198 5.1;11/04/2016;30;247.00;0.00;10
+DPLD46;DVD Player LG DP132;20/06/2016;27;128.00;0.35;2
+DPMD49;DVD Player Mondial D-15;23/07/2016;30;86.90;0.33;3
+DPKBF90;DVD Player Karaokê Britânia Fama ;01/09/2016;33;120.90;0.00;2
+STL4STD5;Smart TV LED 48 Semp Toshiba DL ;22/07/2016;22;1689.99;0.00;15
+KOPBD37;Kit Oficina Portátil Black Decker;08/05/2016;1;152.91;0.35;15
+EMA5D75;Escada Metalmix Artmix 5 Degraus;20/04/2016;44;62.91;0.53;12
+LOBDQ49;Lixadeira Orbital Black Decker QS80;13/04/2016;23;238.99;0.17;5
+FBD18;Furadeira Black Decker;06/05/2016;18;139.42;0.20;5
+LDAPI51;Lavadora De Alta Pressão Intech;11/03/2016;33;224.99;0.29;7
+MTF43;Mangueira Tramontina Flex;14/04/2016;1;55.76;0.27;9
+CDASAP16;Compressor De Ar Schulz Air Plus;28/09/2016;1;399.00;0.30;4
+LBDC1;Lixadeira Black Decker CD450;25/01/2016;40;210.84;0.00;1
+CDASAP98;Compressor De Ar Schulz Air Plus;05/07/2016;33;399.00;0.30;6
+EABD89;Esmerilhadeira Angular Black Decker;24/01/2016;27;134.91;0.26;2
+PPS75;Pistola Pulverizadora Schulz;14/08/2016;40;305.10;0.34;15
+FDI3B28;Furadeira De Impacto 3/8 BD500;16/04/2016;18;80.99;0.41;14
+BDPF82;Bomba D'Água Periférica Ferrari;28/06/2016;18;101.54;0.29;8
+METB70;Moto Esmeril Tramontina Bivolt;13/08/2016;30;110.05;0.18;5
+PABT50;Parafusadeira A Bateria Tramontina;27/04/2016;11;102.71;0.20;5
+P7BDW65;Politriz 7 Black Decker WP1500K;30/03/2016;20;407.55;0.18;3
+ADGBD48;Aparador De Grama Black Decker;02/04/2016;33;116.01;0.12;15
+BDIM46;Bomba D'água Intech Machine;17/06/2016;47;205.61;0.06;9
+SVT9;Soprador VB2101E Tekna;20/03/2016;40;239.90;0.07;8
+AET61;Aparador Elétrico Tramontina;28/03/2016;15;179.10;0.00;4
+BDFI45;Bomba D'água Ferrari IDB-40;18/01/2016;15;143.10;0.20;15
+PDAIM92;Pistola De Ar Intech Machine;16/01/2016;12;48.90;0.00;10
+PEDCV30;Podador Elétrico De Cerca Viva;25/02/2016;46;379.00;0.00;7
+LOER54;Lixadeira Orbital Einhell RT;08/07/2016;9;276.90;0.02;3
+ST-ER24;Serra Tico -Tico Einhell RT-JS;03/01/2016;44;391.89;0.00;11
+MEEB192;Moto Esmeril Einhell BG 150;06/02/2016;26;109.00;0.16;14
+PCDG24;Pistola Convencional De Gravidade;25/01/2016;26;72.51;0.08;7
+RLAG22;Roçadeira Lateral A Gasolina;15/04/2016;34;699.62;0.13;15
+MTM169;Motobomba Tekna MBAE 15TKL;27/01/2016;13;554.04;0.00;7
+MDCS67;Mesa De Centro Saara;10/07/2016;14;129.90;0.00;8
+MDCAH47;Mesa De Centro Artely Happy;18/01/2016;21;95.90;0.00;10
+MDCAC39;Mesa De Centro Artely Cult;19/06/2016;1;164.00;0.17;5
+MLIP54;Mesa Lateral Intense Patrimar;14/09/2016;39;208.39;0.00;5
+MDCF23;Mesa De Centro Freijó;15/01/2016;38;189.99;0.27;9
+MDCB75;Mesa De Centro Bella;04/02/2016;15;169.00;0.16;6
+MDCE38;Mesa De Centro EDN;03/01/2016;18;208.00;0.28;8
+MDCL16;Mesa De Centro Londres;27/02/2016;4;184.33;0.26;2
+MDCC20;Mesa De Centro Criativa;06/04/2016;38;121.00;0.19;11
+MDCC62;Mesa De Centro Catania;22/01/2016;46;496.89;0.00;6
+MDCB34;Mesa De Centro Bupli;03/05/2016;7;1059.00;0.23;8
+MDCP91;Mesa De Centro Phorman;06/08/2016;43;306.00;0.40;8
+MPC87;Multiprocessador Philco Citrus;21/02/2016;27;159.00;0.63;7
+LPP92;Liquidificador Philco PH900;09/04/2016;46;158.37;0.00;12
+ADPBD35;Aspirador De Pó Britânia Dust;25/08/2016;42;109.90;0.42;7
+MPWV4;Mixer Philips Walita Viva;26/01/2016;36;149.90;0.68;11
+GMRS67;Grill Mondial Redondo Smart;16/01/2016;12;109.90;0.52;6
+PDE83;Purificador D'água Electrolux;08/10/2016;14;599.90;0.00;14
+CEA75;Cafeteira Expresso Arno;12/02/2016;15;299.00;0.30;11
+LPP978;Liquidificador Philco PH 900W;14/07/2016;48;119.90;0.41;7
+PDAP17;Processador De Alimentos Philips;20/08/2016;17;179.90;0.23;4
+BAP54;Batedeira Arno Planetária;09/01/2016;26;319.00;0.43;7
+BOC54;Batedeira Orbital Cadence;28/08/2016;25;299.00;0.25;8
+BPPC8;Batedeira Philco Power Chef;22/02/2016;49;519.90;0.23;1
+BPK40;Batedeira Planetária Kitchenaid;16/07/2016;47;2798.99;0.16;9
+APBD14;Aspirador Portátil Black Decker;19/04/2016;38;119.90;0.47;12
+ADPP79;Aspirador De Pó Philco;10/01/2016;48;259.90;0.18;2
+ADPEN58;Aspirador De Pó Electrolux Nano;10/06/2016;22;179.00;0.40;11
+VESFM63;Vassoura Eletrica Sem Fio Magica;05/10/2016;16;114.40;0.00;6
+VEF25;Vassoura Elétrica Fogatti;16/06/2016;21;171.33;0.00;7
+SEGBC45;Sanduicheira E Grill Britânia Crome;26/09/2016;37;59.90;0.38;3
+OBDP36;Omeleteira Britânia Duo Plus;14/09/2016;45;79.90;0.21;1
+SEGM15;Sanduicheira E Grill Mondial;14/07/2016;31;74.90;0.16;2
+SPO48;Sanduicheira Panini Oster;15/08/2016;10;449.90;0.08;3
